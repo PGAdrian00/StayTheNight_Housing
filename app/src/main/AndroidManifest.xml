@@ -22,9 +22,6 @@
             android:name=".Activity_Add_Hotel"
             android:exported="false" />
         <activity
-            android:name=".activity_list_view"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
