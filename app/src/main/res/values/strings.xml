@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StayTheNight_Housing</string>
+    <string name="hotelName">Hotel Name</string>
+    <string name="hotelAddress">Hotel Address</string>
+    <string name="hotelPhoneNr">Phone Nr</string>
+    <string name="hotelWebpage">Webpage</string>
+</resources>
